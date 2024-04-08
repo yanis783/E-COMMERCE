@@ -1,0 +1,680 @@
+ [
+            {
+                "id":1,
+                "name":"Qammis Bleu",
+                "image":"/Homme/bleu-01.jpeg",
+                "images":[
+                    "/Homme/bleu-01.jpeg",
+                    "/Homme/bleu-02.jpeg",
+                    "/Homme/bleu-03.jpeg",
+                    "/Homme/bleu-04.jpeg"
+                ],
+                "new_price":50.00,
+                "old_price":80.50,
+                "category": "New"
+            },
+            {
+                "id":2,
+                "name":"Imran blanc",
+                "image": "/Homme/imranblanc1.jpeg",
+                "images":[
+                    "/Homme/imranblanc1.jpeg",
+                    "/Homme/imranblanc6.jpeg",
+                    "/Homme/imranblanc3.jpeg",
+                    "/Homme/imranblanc4.jpeg"
+                ],
+                "new_price":85.00,
+                "category": "New",
+                "old_price":120.50
+                },
+                {
+                "id":3,
+                "name":"Qammis bordaux ",
+                "image":"/Homme/bordo1.jpeg",
+                "images":[
+                    "/Homme/bordo1.jpeg",
+                    "/Homme/bordo5.jpeg",
+                    "/Homme/bordo3.jpeg",
+                    "/Homme/bordo4.jpeg"
+                ],
+                "new_price":60.00,
+                "category": "New",
+                "old_price":100.50
+            },
+            {
+                "id":4,
+                "name":"Qammis noir ",
+                "image":"/Homme/noir-01.jpeg",
+                "images":[
+                    "/Homme/noir-01.jpeg",
+                    "/Homme/noir-02.jpeg",
+                    "/Homme/noir-03.jpeg",
+                    "/Homme/noir-04.jpeg"
+                ],
+                "new_price":100.00,
+                "category": "New",
+                "old_price":150.00
+            },
+            {
+                "id":5,
+                "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+                "image":"/Homme/bleu-01.jpeg",
+                "images":[
+                    "/Homme/bleu-01.jpeg",
+                    "/Homme/bleu-05.jpeg",
+                    "/Homme/bleu-03.jpeg",
+                    "/Homme/bleu-04.jpeg"
+                ],
+                "category": "men",
+                "new_price":50.00,
+                "old_price":80.50
+            },
+            {
+                "id":6,
+                "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+                "image": "/Homme/imranblanc1.jpeg",
+                "images":[
+                    "/Homme/imranblanc1.jpeg",
+                    "/Homme/imranblanc3.jpeg",
+                    "/Homme/imranblanc4.jpeg",
+                    "/Homme/imranblanc6.jpeg"
+                ],
+                "category": "men",
+                "new_price":85.00,
+                "old_price":120.50
+            },
+            {
+                "id":7,
+                "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+                "image":"/Homme/bordo1.jpeg",
+                "images":[
+                    "/Homme/bordo1.jpeg",
+                    "/Homme/bordo3.jpeg",
+                    "/Homme/bordo4.jpeg",
+                    "/Homme/bordo5.jpeg"
+                ],
+                "category": "men",
+                "new_price":60.00,
+                "old_price":100.50
+            },
+            {
+                "id":8,
+                "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+                "image":"/Homme/noir-01.jpeg",
+                "images":[
+                    "/Homme/noir-01.jpeg",
+                    "/Homme/noir-02.jpeg",
+                    "/Homme/noir-03.jpeg",
+                    "/Homme/noir-04.jpeg"
+                ],
+                "category": "men",
+                "new_price":100.00,
+                "old_price":150.00
+        },
+        
+        {
+            "id": 9,
+            "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+            "category": "men",
+            "image": "/Homme/Suhayl-adulte-blanc-01.jpg",
+            "images":[
+                "/Homme/Suhayl-adulte-blanc-01.jpg",
+                "/Homme/Suhayl-adulte-blanc-05.jpg",
+                "/Homme/Suhayl-adulte-blanc-03.jpg",
+                "/Homme/Suhayl-adulte-blanc-04.jpg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+        },
+        {
+            "id": 10,
+            "name": "SUhayl-adulte",
+            "category": "men",
+            "image": "/Homme/Suhayl-adulte-bleu-01.jpg",
+            "images":[
+                "/Homme/Suhayl-adulte-bleu-01.jpg",
+                "/Homme/Suhayl-adulte-bleu-02.jpg",
+                "/Homme/Suhayl-adulte-bleu-03.jpg",
+                "/Homme/Suhayl-adulte-bleu-04.jpg"
+            ],
+            " new_price": 85.0,
+            "old_price": 120.5
+        },
+        {
+            "id": 11,
+            "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+            "category": "men",
+            "images": [
+                    "/Homme/Suhayl-adulte-cyan-01.jpg",
+                    "/Homme/Suhayl-adulte-cyan-02.jpg",
+                    "/Homme/Suhayl-adulte-cyan-03.jpg",
+                    "/Homme/Suhayl-adulte-cyan-04.jpg"
+            ],
+            "image":"/Homme/Suhayl-adulte-cyan-01.jpg",
+            "new_price": 85.0,
+            "old_price": 120.5
+        },
+        {
+            "id":12,
+            "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+            "category": "men",
+            "image": "/Homme/Suhayl-adulte-rouge-01.jpg",
+            "images":[
+                "/Homme/Suhayl-adulte-rouge-01.jpg",
+                "/Homme/Suhayl-adulte-rouge-02.jpg",
+                "/Homme/Suhayl-adulte-rouge-03.jpg",
+                "/Homme/Suhayl-adulte-rouge-04.jpg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+        },
+        {
+            "id": 13,
+            "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+            "category": "men",
+            "image": "/Homme/Suhayl-adulte-vert-01.jpg",
+            "images":[
+                "/Homme/Suhayl-adulte-vert-01.jpg",
+                "/Homme/Suhayl-adulte-vert-02.jpg",
+                "/Homme/Suhayl-adulte-vert-03.jpg",
+                "/Homme/Suhayl-adulte-vert-04.jpg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+        },
+        {
+            "id": 14,
+            "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+            "category": "men",
+            "image": "/Homme/vert1.jpeg",
+            "images":[
+                "/Homme/vert1.jpeg",
+                "/Homme/vert2.jpeg",
+                "/Homme/vert3.jpeg",
+                "/Homme/vert4.jpeg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+        },
+        {
+            "id": 15,
+            "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+            "category": "men",
+            "image": "/Homme/Zayn-adulte-bleu-01.jpg",
+            "images":[
+                "/Homme/Zayn-adulte-bleu-01.jpg",
+                "/Homme/Zayn-adulte-bleu-02.jpg",
+                "/Homme/Zayn-adulte-bleu-03.jpg",
+                "/Homme/Zayn-adulte-bleu-04.jpg"
+            ],
+            "new_price": 85.0,
+            " old_pric": 120.5
+        },
+        {
+            "id": 16,
+            " name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+            "category": "men",
+            "image": "/Homme/Zayn-adulte-mauve-01.jpg",
+            "images":[
+                "/Homme/Zayn-adulte-mauve-01.jpg",
+                "/Homme/Zayn-adulte-mauve-02.jpg",
+                "/Homme/Zayn-adulte-mauve-03.jpg",
+                "/Homme/Zayn-adulte-mauve-04.jpg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+        },
+
+        {
+            "id": 17,
+            "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+            "category": "kid",
+            "image": "/Enfant/babouches-cuir-haut-de-gamme-bleues_confortable1.jpeg",
+            "images":[
+                "/Enfant/babouches-cuir-haut-de-gamme-bleues_confortable1.jpeg",
+                "/Enfant/babouches-cuir-haut-de-gamme-bleues_confortable2.jpeg",
+                "babouches-cuir-haut-de-gamme-bleues_epaisses_confortable_maroc3.jpeg",
+                "babouches-cuir-haut-de-gamme-bleues_epaisses_confortable_marocaines4.jpeg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+          },
+          {
+            "id": 18,
+           " name": "Boys Orange Colourblocked Hooded Sweatshirt",
+            "category": "kid",
+            "image": "/Enfant/Babouche-blanc-01.jpg",
+            "images":[
+                "/Enfant/Babouche-blanc-01.jpg",
+                "/Enfant/Babouche-blanc-02.jpg",
+                "/Enfant/Babouche-blanc-03.jpg",
+                "/Enfant/Babouche-blanc-04.jpg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+          },
+          {
+           "id": 19,
+            "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+            "category": "kid",
+            "image": "/Enfant/Qayim-enfant-vert-01.jpg",
+            "images":[
+                "/Enfant/Qayim-enfant-vert-01.jpg",
+                "/Enfant/Qayim-enfant-vert-02.jpg",
+                "/Enfant/Qayim-enfant-vert-03.jpg",
+                "/Enfant/Qayim-enfant-vert-04.jpg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+          },
+          {
+            "id": 20,
+            "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+            "category": "kid",
+            "image": "/Enfant/Malik-enfant-bleu-01.jpg",
+            "images":[
+                "/Enfant/Malik-enfant-bleu-01.jpg",
+                "/Enfant/Malik-enfant-bleu-02.jpg",
+                "/Enfant/Malik-enfant-bleu-03.jpg",
+                "/Enfant/Malik-enfant-bleu-04.jpg"
+            ],
+            "new_price": 85.0,
+            "old_price": 120.5
+          },
+            {
+                "id": 21,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Malik-enfant-bordeaux-01.jpg",
+                "images":[
+                    "/Enfant/Malik-enfant-bordeaux-01.jpg",
+                    "/Enfant/Malik-enfant-bordeaux-02.jpg",
+                    "/Enfant/Malik-enfant-bordeaux-03.jpg",
+                    "/Enfant/Malik-enfant-bordeaux-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            },
+            {
+                "id": 22,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Malik-enfant-vert-01.jpg",
+                "images":[
+                    "/Enfant/Malik-enfant-vert-01.jpg",
+                    "/Enfant/Malik-enfant-vert-02.jpg",
+                    "/Enfant/Malik-enfant-vert-03.jpg",
+                    "/Enfant/Malik-enfant-vert-04.jpg"
+                ],
+                "new_pric": 85.0,
+                " old_price": 120.5
+            },
+            {
+                "id": 23,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Nael-enfant-blanc-01.jpg",
+                "images":[
+                    "/Enfant/Nael-enfant-blanc-01.jpg",
+                    "/Enfant/Nael-enfant-blanc-02.jpg",
+                    "/Enfant/Nael-enfant-blanc-03.jpg",
+                    "/Enfant/Nael-enfant-blanc-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_pric": 120.5
+            },
+            {
+                "id": 24,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Nael-enfant-bleu-01.jpg",
+                "images":[
+                    "/Enfant/Nael-enfant-bleu-01.jpg",
+                    "/Enfant/Nael-enfant-bleu-02.jpg",
+                    "/Enfant/Nael-enfant-bleu-03.jpg",
+                    "/Enfant/Nael-enfant-bleu-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            }
+            ,
+            {
+                "id": 25,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Nael-enfant-vert-01.jpg",
+                "images":[
+                    "/Enfant/Nael-enfant-vert-01.jpg",
+                    "/Enfant/Nael-enfant-vert-02.jpg",
+                    "/Enfant/Nael-enfant-vert-03.jpg",
+                    "/Enfant/Nael-enfant-vert-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            },
+            {
+                "id": 26,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Qayim-enfant-blanc-02.jpg",
+                "images":[
+                    "/Enfant/Qayim-enfant-blanc-02.jpg",
+                    "/Enfant/Qayim-enfant-blanc-03.jpg",
+                    "/Enfant/Qayim-enfant-blanc-04.jpg",
+                    "/Enfant/Qayim-enfant-blanc-05.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            },
+            {
+                "id": 27,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Qayim-enfant-bleu-01.jpg",
+                "images":[
+                    "/Enfant/Qayim-enfant-bleu-01.jpg",
+                    "/Enfant/Qayim-enfant-bleu-02.jpg",
+                    "/Enfant/Qayim-enfant-bleu-03.jpg",
+                    "/Enfant/Qayim-enfant-bleu-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            },
+            {
+                "id": 28,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category": "kid",
+                "image": "/Enfant/Qayim-enfant-noir-01.jpg",
+                "images":[
+                    "/Enfant/Qayim-enfant-noir-01.jpg",
+                    "/Enfant/Qayim-enfant-noir-02.jpg",
+                    "/Enfant/Qayim-enfant-noir-03.jpg",
+                    "/Enfant/Qayim-enfant-noir-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            }
+            ,
+        {
+            "id":29,
+            "name":"Qammis Bleu",
+            "image":"/Accessoires/Amama01.jpg",
+            "images":[
+                "/Accessoires/Amama01.jpg",
+                "/Accessoires/Amama01.jpg",
+                "/Accessoires/Amama03.jpg",
+                "/Accessoires/Amama04.jpg"
+            ],
+            "new_price":50.00,
+            "old_price":80.50,
+            "category":"Accessoires"
+        },
+        {
+            "id":30,
+            "name":"Imran blanc",
+            "image": "/Accessoires/bague-noir1.jpeg",
+            "images":[
+                "/Accessoires/bague-noir1.jpeg",
+                "/Accessoires/bague-noir2.jpeg",
+                "/Accessoires/bague-noir3.jpeg",
+                "/Accessoires/bague-noir4.jpeg"
+            ],
+            "new_price":85.00,
+            "old_price":120.50,
+            "category":"Accessoires"
+            },
+            {
+            "id":31,
+            "name":"Qammis bordaux ",
+            "image":"/Accessoires/bague-rouge1.jpeg",
+            "images":[
+                "/Accessoires/bague-rouge1.jpeg",
+                "/Accessoires/bague-rouge2.jpeg",
+                "/Accessoires/bague-rouge3.jpeg",
+                "/Accessoires/bague-rouge4.jpeg"
+            ],
+            "new_price":60.00,
+            "old_price":100.50,
+            "category":"Accessoires"
+        },
+        {
+            "id":32,
+            "name":"Qammis noir ",
+            "image":"/Accessoires/bague-verte1.jpeg",
+            "images":[
+                "/Accessoires/bague-verte1.jpeg",
+                "/Accessoires/bague-verte2.jpeg",
+                "/Accessoires/bague-verte3.jpeg",
+                "/Accessoires/bague-verte4.jpeg"
+            ],
+            "new_price":100.00,
+            "old_price":150.00,
+            "category":"Accessoires"
+
+        },
+        {
+            "id":33,
+            "name":"Qammis Bleu",
+            "image":"/Accessoires/bagues_Fatih_bleu_ajustables_argent_oriental_homme_pierre_bleu 4.jpeg",
+            "images":[
+                "/Accessoires/bagues_Fatih_bleu_ajustables_argent_oriental_homme_pierre_bleu 4.jpeg",
+                "/Accessoires/bagues_Fatih_bleu_ajustables_argent_oriental_homme_pierre_bleu.jpeg",
+                "/Accessoires/bagues_Fatih_bleu_ajustables_argent_oriental_homme_pierre_bleue_3.jpeg",
+                "/Accessoires/bagues_Fatih_bleu_ajustables_argent_oriental_homme_pierre_bleue2.jpeg"
+            ],
+            "new_price":50.00,
+            "old_price":80.50,
+            "category":"Accessoires"
+        },
+        {
+            "id":34,
+            "name":"Imran blanc",
+            "image": "/Accessoires/bagues_qasim_bleu_ajustables_argent_oriental_homme_pierre_bleue_4.jpeg",
+            "images":[
+                "/Accessoires/bagues_qasim_bleu_ajustables_argent_oriental_homme_pierre_bleue_4.jpeg",
+                "/Accessoires/bagues_qasim_bleu_ajustables_argent_oriental_homme_pierre_bleue_3.jpeg",
+                "/Accessoires/bagues_qasim_bleu_ajustables_argent_oriental_homme_pierre_bleue_2.jpeg",
+                "/Accessoires/bagues_qasim_bleu_ajustables_argent_oriental_homme_pierre_bleue_1.jpeg"
+            ],
+            "new_price":85.00,
+            "old_price":120.50,
+            "category":"Accessoires"
+            },
+            {
+            "id":35,
+            "name":"Qammis bordaux ",
+            "image":"/Accessoires/Bleu-Selham_burnous_epais_premium_bleu_1.jpeg",
+            "images":[
+                "/Accessoires/Bleu-Selham_burnous_epais_premium_bleu_1.jpeg",
+                "/Accessoires/Bleu-Selham_burnous_epais_premium_bleu_2.jpeg",
+                "/Accessoires/Bleu-Selham_burnous_epais_premium_bleu_3.jpeg",
+                "/Accessoires/Bleu-Selham_burnous_epais_premium_bleu_4.jpeg"
+            ],
+            "new_price":60.00,
+            "old_price":100.50,
+            "category":"Accessoires"
+        },
+        {
+            "id":36,
+            "name":"Qammis noir ",
+            "image":"/Accessoires/Gris-Selham_burnous_epais_premium_gris_fonce_1.jpeg",
+            "images":[
+                "/Accessoires/Gris-Selham_burnous_epais_premium_gris_fonce_1.jpeg",
+                "/Accessoires/Gris-Selham_burnous_epais_premium_gris_fonce_2.jpeg",
+                "/Accessoires/Gris-Selham_burnous_epais_premium_gris_fonce_3.jpeg",
+                "/Accessoires/Gris-Selham_burnous_epais_premium_gris_fonce_4.jpeg"
+            ],
+            "new_price":100.00,
+            "old_price":150.00,
+            "category":"Accessoires"
+        },
+        {
+            "id":37,
+            "name":"Qammis Bleu",
+            "image":"/Accessoires/Selham_burnous_epais_premium_vert_profond_1.jpeg",
+            "images":[
+                "/Accessoires/Selham_burnous_epais_premium_vert_profond_1.jpeg",
+                "/Accessoires/Selham_burnous_epais_premium_vert_profond_2.jpeg",
+                "/Accessoires/Selham_burnous_epais_premium_vert_profond_3.jpeg",
+                "/Accessoires/Selham_burnous_epais_premium_vert_profond_4.jpeg"
+            ],
+            "new_price":50.00,
+            "old_price":80.50,
+            "category":"Accessoires"
+        },
+        {
+            "id":38,
+            "name":"Imran blanc",
+            "image": "/Accessoires/Selham_luce_burnous1.jpeg",
+            "images":[
+                "/Accessoires/Selham_luce_burnous1.jpeg",
+                "/Accessoires/Selham_luce_burnous2.jpeg",
+                "/Accessoires/Selham_luce_burnous3.jpeg",
+                "/Accessoires/Selham_luce_burnous4.jpeg"
+            ],
+            "new_price":85.00,
+            "old_price":120.50,
+            "category":"Accessoires"
+            },
+            {
+            "id":39,
+            "name":"Qammis bordaux ",
+            "image":"/Accessoires/Siwak01.jpg",
+            "images":[
+                "/Accessoires/Siwak01.jpg",
+                "/Accessoires/Siwak02.jpg",
+                "/Accessoires/Siwak03.jpg",
+                "/Accessoires/Siwak04.jpg"
+            ],
+            "new_price":60.00,
+            "old_price":100.50,
+            "category":"Accessoires"
+        },
+        {
+            "id":40,
+            "name":"Qammis noir ",
+            "image":"/Accessoires/Terbouch01.jpg",
+            "images":[
+                "/Accessoires/Terbouch01.jpg",
+                "/Accessoires/Terbouch01.jpg",
+                "/Accessoires/Terbouch02.jpg",
+                "/Accessoires/Terbouch03.jpg"
+            ],
+            "new_price":100.00,
+            "old_price":150.00,
+            "category":"Accessoires"
+        },
+    
+            {
+                "id":41,
+                "name":"Qammis Bleu",
+                "category":"NewCollection",
+                "image":"/Accessoires/Amama01.jpg",
+                "images":[
+                    "/Accessoires/Amama01.jpg",
+                    "/Accessoires/Amama01.jpg",
+                    "/Accessoires/Amama02.jpg",
+                    "/Accessoires/Amama03.jpg"
+                ],
+                "new_price":50.00,
+                "old_price":80.50
+            },
+            {
+                "id":42,
+                "category":"NewCollection",
+                "name":"Imran blanc",
+                "image": "/Accessoires/bague-noir1.jpeg",
+                "images":[
+                    "/Accessoires/bague-noir1.jpeg",
+                    "/Accessoires/bague-noir2.jpeg",
+                    "/Accessoires/bague-noir3.jpeg",
+                    "/Accessoires/bague-noir4.jpeg"
+                ],
+                "new_price":85.00,
+                "old_price":120.50
+                },
+                {
+                "id":43,
+                "category":"NewCollection",
+                "name":"Qammis bordaux ",
+                "image":"/Accessoires/bague-rouge1.jpeg",
+                "images":[
+                    "/Accessoires/bague-rouge1.jpeg",
+                    "/Accessoires/bague-rouge2.jpeg",
+                    "/Accessoires/bague-rouge3.jpeg",
+                    "/Accessoires/bague-rouge4.jpeg"
+                ],
+                "new_price":60.00,
+                "old_price":100.50
+            },
+            {
+                "id":44,
+                "name":"Qammis noir ",
+                "category":"NewCollection",
+                "image":"/Accessoires/bague-verte1.jpeg",
+                "images":[
+                    "/Accessoires/bague-verte1.jpeg",
+                    "/Accessoires/bague-verte2.jpeg",
+                    "/Accessoires/bague-verte3.jpeg",
+                    "/Accessoires/bague-verte4.jpeg"
+                ],
+                "new_price":100.00,
+                "old_price":150.00
+            },
+            {
+                "id": 45,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category":"NewCollection",
+                "image": "/Enfant/Malik-enfant-bordeaux-01.jpg",
+                "images":[
+                    "/Enfant/Malik-enfant-bordeaux-01.jpg",
+                    "/Enfant/Malik-enfant-bordeaux-02.jpg",
+                    "/Enfant/Malik-enfant-bordeaux-03.jpg",
+                    "/Enfant/Malik-enfant-bordeaux-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            },
+            {
+                "id": 46,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category":"NewCollection",
+                "image": "/Enfant/Malik-enfant-vert-01.jpg",
+                "images":[
+                    "/Enfant/Malik-enfant-vert-01.jpg",
+                    "/Enfant/Malik-enfant-vert-02.jpg",
+                    "/Enfant/Malik-enfant-vert-03.jpg",
+                    "/Enfant/Malik-enfant-vert-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            },
+            {
+                "id": 47,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category":"NewCollection",
+                "image": "/Enfant/Nael-enfant-blanc-01.jpg",
+                "images":[
+                    "/Enfant/Nael-enfant-blanc-01.jpg",
+                    "/Enfant/Nael-enfant-blanc-02.jpg",
+                    "/Enfant/Nael-enfant-blanc-03.jpg",
+                    "/Enfant/Nael-enfant-blanc-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            },
+            {
+                 "id": 48,
+                "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+                "category":"NewCollection",
+                "image": "/Enfant/Nael-enfant-bleu-01.jpg",
+                "images":[
+                    "/Enfant/Nael-enfant-bleu-01.jpg",
+                    "/Enfant/Nael-enfant-bleu-02.jpg",
+                    "/Enfant/Nael-enfant-bleu-03.jpg",
+                    "/Enfant/Nael-enfant-bleu-04.jpg"
+                ],
+                "new_price": 85.0,
+                "old_price": 120.5
+            }
+        ]

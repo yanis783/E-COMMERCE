@@ -1,0 +1,23 @@
+*{
+  margin: 0;  
+}
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+@import "./_item";
+@import "./_header";
+@import "./_hero";
+@import "./populaire";
+@import "./offers";
+@import "./new";
+@import "./newsletter";
+@import "./footer";
+@import "./shopCategory";
+@import "./loginsignup";
+@import "./onclick";
+@import "./productdisplay";
+@import "./descriptionBox";
+@import "./relatedproduct";
+@import "./cartitems";
